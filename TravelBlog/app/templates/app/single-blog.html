@@ -1,4 +1,6 @@
 {% load static %}
+{% load i18n %}
+
 <!doctype html>
 <html lang="en">
 
@@ -7,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="{% static 'img/favicon.png' %}" type="image/png">
-    <title>Post Details</title>
+    <title>{% trans "Post Details" %}</title>
     <!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="{% static 'css/bootstrap.css' %}">
 	<link rel="stylesheet" href="{% static 'vendors/linericon/style.css' %}">
@@ -43,28 +45,28 @@
 					<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 						<ul class="nav navbar-nav menu_nav justify-content-center mx-auto">
 							<li class="nav-item">
-								<a class="nav-link" href="{% url 'home' %}">Home</a>
+								<a class="nav-link" href="{% url 'home' %}">{% trans "Home" %}</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="{% url 'category' %}">Category</a>
+								<a class="nav-link" href="{% url 'category' %}">{% trans "Category" %}</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="{% url 'archive' %}">Archive</a>
+								<a class="nav-link" href="{% url 'archive' %}">{% trans "Archieve" %}</a>
 							</li>
 							<li class="nav-item submenu dropdown active">
 								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-								 aria-expanded="false">Pages</a>
+								 aria-expanded="false">{% trans "Pages" %}</a>
 								<ul class="dropdown-menu">
 									<li class="nav-item">
-										<a class="nav-link" href="{% url 'elements' %}">Elements</a>
+										<a class="nav-link" href="{% url 'elements' %}">{% trans "Elements" %}</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="{% url 'singleblog' %}">Post Details</a>
+										<a class="nav-link" href="{% url 'singleblog' %}">{% trans "Post Details" %}</a>
 									</li>
 								</ul>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="{% url 'contact' %}">Contact</a>
+								<a class="nav-link" href="{% url 'contact' %}">{% trans "Contact" %}</a>
 							</li>
 						</ul>
                         <ul class="nav navbar-nav ml-auto search">
@@ -100,9 +102,9 @@
                             <img class="img-fluid" src="{% static 'img/banner/post-details-img.png' %}" alt="">
                             <div class="blog-meta bottom d-flex justify-content-start align-items-center flex-wrap">
                                 <div>
-                                    <a class="read_more" href="{% url 'home' %}">Home</a>
+                                    <a class="read_more" href="{% url 'home' %}">{% trans "Home" %}</a>
                                     <span class="lnr lnr-arrow-right"></span>
-                                    <a class="read_more" href="{% url 'singleblog' %}">Post Details</a>
+                                    <a class="read_more" href="{% url 'singleblog' %}">{% trans "Post Details" %}</a>
                                 </div>
                             </div>
                         </div>
@@ -121,18 +123,18 @@
                     <div class="main_blog_details">
                         <img class="img-fluid" src="{% static 'img/blog/news-blog.jpg' %}" alt="">
                         <a href="#">
-                            <h4>Cartridge Is Better Than Ever <br /> A Discount Toner</h4>
+                            <h4>{% trans "Cartridge Is Better Than Ever" %} <br />{% trans "A Discount Toner" %}</h4>
                         </a>
                         <div class="user_details">
                             <div class="float-left">
-                                <a href="#">Lifestyle</a>
-                                <a href="#">Gadget</a>
+                                <a href="#">{% trans "Lifestyle" %}</a>
+                                <a href="#">{% trans "Gadget" %}</a>
                             </div>
                             <div class="float-right">
                                 <div class="media">
                                     <div class="media-body">
-                                        <h5>Mark wiens</h5>
-                                        <p>12 Dec, 2017 11:21 am</p>
+                                        <h5>{% trans "Mark Wiens" %}</h5>
+                                        <p>{% trans "12 Dec, 2017 11:21 am" %}</p>
                                     </div>
                                     <div class="d-flex">
                                         <img src="{% static 'img/blog/user-img.jpg' %}" alt="">
@@ -172,9 +174,8 @@
                             at
                             a fraction of the camp price. However, who has the willpower</p>
                         <div class="news_d_footer">
-                            <a href="#"><i class="lnr lnr lnr-heart"></i>Lily and 4 people like this</a>
-                            <a class="justify-content-center ml-auto" href="#"><i class="lnr lnr lnr-bubble"></i>06
-                                Comments</a>
+                            <a href="#"><i class="lnr lnr lnr-heart"></i>{% trans "Lily and 4 people like this" %}</a>
+                            <a class="justify-content-center ml-auto" href="#"><i class="lnr lnr lnr-bubble"></i>{% trans "06 Comments" %}</a>
                             <div class="news_socail ml-auto">
                                 <a href="#"><i class="fa fa-facebook"></i></a>
                                 <a href="#"><i class="fa fa-twitter"></i></a>
@@ -193,17 +194,17 @@
                                     <a href="#"><span class="lnr text-white lnr-arrow-left"></span></a>
                                 </div>
                                 <div class="detials">
-                                    <p>Prev Post</p>
+                                    <p>{% trans "prev Post" %}</p>
                                     <a href="#">
-                                        <h4>A Discount Toner</h4>
+                                        <h4>{% trans "A Discount Toner" %}</h4>
                                     </a>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                                 <div class="detials">
-                                    <p>Next Post</p>
+                                    <p>{% trans "Next Posts" %}</p>
                                     <a href="#">
-                                        <h4>Cartridge Is Better</h4>
+                                        <h4>{% trans "Cartridge Is Better" %}</h4>
                                     </a>
                                 </div>
                                 <div class="arrow">
@@ -224,10 +225,10 @@
                                         <img src="{% static 'img/blog/c1.jpg' %}" alt="">
                                     </div>
                                     <div class="desc">
-                                        <h5><a href="#">Emilly Blunt</a></h5>
-                                        <p class="date">December 4, 2017 at 3:12 pm </p>
+                                        <h5><a href="#">{% trans "Emilly Blunt" %}</a></h5>
+                                        <p class="date">{% trans "December 4, 2017 at 3:12 pm" %} </p>
                                         <p class="comment">
-                                            Never say goodbye till the end comes!
+                                            {% trans "Never say goodbye till the end comes!" %}
                                         </p>
                                     </div>
                                 </div>
@@ -243,10 +244,10 @@
                                         <img src="{% static 'img/blog/c2.jpg' %}" alt="">
                                     </div>
                                     <div class="desc">
-                                        <h5><a href="#">Elsie Cunningham</a></h5>
-                                        <p class="date">December 4, 2017 at 3:12 pm </p>
+                                        <h5><a href="#">{% trans "Elsie Cunningham" %}</a></h5>
+                                        <p class="date">{% trans "December 4, 2017 at 3:12 pm" %} </p>
                                         <p class="comment">
-                                            Never say goodbye till the end comes!
+                                            {% trans "Never say goodbye till the end comes!" %}
                                         </p>
                                     </div>
                                 </div>
@@ -262,10 +263,10 @@
                                         <img src="{% static 'img/blog/c3.jpg' %}" alt="">
                                     </div>
                                     <div class="desc">
-                                        <h5><a href="#">Annie Stephens</a></h5>
-                                        <p class="date">December 4, 2017 at 3:12 pm </p>
+                                        <h5><a href="#">{% trans "Annie Stephens" %}</a></h5>
+                                        <p class="date">{% trans "December 4, 2017 at 3:12 pm" %} </p>
                                         <p class="comment">
-                                            Never say goodbye till the end comes!
+                                            {% trans "Never say goodbye till the end comes!" %}
                                         </p>
                                     </div>
                                 </div>
@@ -281,10 +282,10 @@
                                         <img src="{% static 'img/blog/c4.jpg' %}" alt="">
                                     </div>
                                     <div class="desc">
-                                        <h5><a href="#">Maria Luna</a></h5>
-                                        <p class="date">December 4, 2017 at 3:12 pm </p>
+                                        <h5><a href="#">{% trans "Maria Luna" %}</a></h5>
+                                        <p class="date">{% trans "December 4, 2017 at 3:12 pm" %} </p>
                                         <p class="comment">
-                                            Never say goodbye till the end comes!
+                                            {% trans "Never say goodbye till the end comes!" %}
                                         </p>
                                     </div>
                                 </div>
@@ -300,10 +301,10 @@
                                         <img src="{% static 'img/blog/c5.jpg' %}" alt="">
                                     </div>
                                     <div class="desc">
-                                        <h5><a href="#">Ina Hayes</a></h5>
-                                        <p class="date">December 4, 2017 at 3:12 pm </p>
+                                        <h5><a href="#">{% trans "Ina Hayes" %}</a></h5>
+                                        <p class="date">{% trans "December 4, 2017 at 3:12 pm" %} </p>
                                         <p class="comment">
-                                            Never say goodbye till the end comes!
+                                            {% trans "Never say goodbye till the end comes!" %}
                                         </p>
                                     </div>
                                 </div>
@@ -314,7 +315,7 @@
                         </div>
                     </div>
                     <div class="comment-form">
-                        <h4>Leave a Reply</h4>
+                        <h4>{% trans "Leave a Reply" %}</h4>
                         <form>
                             <div class="form-group form-inline">
                                 <div class="form-group col-lg-6 col-md-6 name">
@@ -351,8 +352,8 @@
                         </aside>
                         <aside class="single_sidebar_widget author_widget">
                             <img class="author_img img-fluid" src="{% static 'img/blog/author.png' %}" alt="">
-                            <h4>Charlie ALison Barber</h4>
-                            <p>Senior blog writer</p>
+                            <h4>{% trans "Charlie ALison Barber" %}</h4>
+                            <p>{% trans "Senior blog writer" %}</p>
 
                             <p>Boot camps have its supporters andit sdetractors. Some people do not understand why you
                                 should
@@ -369,38 +370,38 @@
                             <div class="br"></div>
                         </aside>
                         <aside class="single_sidebar_widget popular_post_widget">
-                            <h3 class="widget_title">Popular Posts</h3>
+                            <h3 class="widget_title">{% trans "Popular Posts" %}</h3>
                             <div class="media post_item">
                                 <img src="{% static 'img/blog/popular-post/post1.jpg' %}" alt="post">
                                 <div class="media-body">
                                     <a href="blog-details.html">
-                                        <h3>Space The Final Frontier</h3>
+                                        <h3>{% trans "Space The Final Frontier" %}</h3>
                                     </a>
-                                    <p>02 Hours ago</p>
+                                    <p>{% trans "02 Hours ago" %}</p>
                                 </div>
                             </div>
                             <div class="media post_item">
                                 <img src="{% static 'img/blog/popular-post/post2.jpg' %}" alt="post">
                                 <div class="media-body">
                                     <a href="blog-details.html">
-                                        <h3>The Amazing Hubble</h3>
+                                        <h3>{% trans "The Amazing Hubble" %}</h3>
                                     </a>
-                                    <p>02 Hours ago</p>
+                                    <p>{% trans "02 Hours ago" %}</p>
                                 </div>
                             </div>
                             <div class="media post_item">
                                 <img src="{% static 'img/blog/popular-post/post3.jpg' %}" alt="post">
                                 <div class="media-body">
                                     <a href="blog-details.html">
-                                        <h3>Astronomy Or Astrology</h3>
+                                        <h3>{% trans "Astronomy Or Astrology" %}</h3>
                                     </a>
-                                    <p>03 Hours ago</p>
+                                    <p>{% trans "03 Hours ago" %}</p>
                                 </div>
                             </div>
                             <div class="br"></div>
                         </aside>
                         <aside class="single_sidebar_widget newsletter_widget">
-                            <h4 class="widget_title">Newsletter</h4>
+                            <h4 class="widget_title">{% trans "Newsletter" %}</h4>
                             <div id="mc_embed_signup">
                                 <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
                                     method="get" class="subscribe_form relative">
@@ -417,35 +418,35 @@
                         </aside>
                         <div class="br"></div>
                         <aside class="single_sidebar_widget post_category_widget">
-                            <h4 class="widget_title">Post Catgories</h4>
+                            <h4 class="widget_title">{% trans "Post Categories" %}</h4>
                             <ul class="list cat-list">
                                 <li>
                                     <a href="#" class="d-flex justify-content-between">
-                                        <p>Technology</p>
+                                        <p>{% trans "Technology" %}</p>
                                         <p>37</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex justify-content-between">
-                                        <p>Lifestyle</p>
+                                        <p>{% trans "Lifestyle" %}</p>
                                         <p>24</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex justify-content-between">
-                                        <p>Fashion</p>
+                                        <p>{% trans "Fashion" %}</p>
                                         <p>59</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex justify-content-between">
-                                        <p>Art</p>
+                                        <p>{% trans "Art" %}</p>
                                         <p>29</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex justify-content-between">
-                                        <p>Food</p>
+                                        <p>{% trans "Food" %}</p>
                                         <p>15</p>
                                     </a>
                                 </li>
@@ -463,7 +464,7 @@
         <div class="container">
             <div class="single-footer-widget footer_middle">
                 <img src="{% static 'img/logo.png' %}" alt="">
-                <p class="mt-50">Stay updated with our latest trends</p>
+                <p class="mt-50">{% trans "Stay updated with our latest trends" %}</p>
                 <div id="mc_embed_signup">
                     <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
                         method="get" class="subscribe_form relative">
@@ -495,7 +496,7 @@
                 </div>
 
                 <p class="col-lg-12 footer-text"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+{% trans "Copyright" %} &copy;<script>document.write(new Date().getFullYear());</script> {% trans "All rights reserved" %}{% trans "| This template is made with" %} <i class="fa fa-heart-o" aria-hidden="true"></i> {% trans "by" %} <a href="https://colorlib.com" target="_blank">{% trans "Colorlib" %}</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
             </div>
         </div>
@@ -525,7 +526,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<script src="{% static 'js/jquery.ajaxchimp.min.js' %}"></script>
 	<script src="{% static 'js/mail-script.js' %}"></script>
 	<script src="{% static 'js/wow.min.js' %}"></script>
-	<script src="{% static 'https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA' %}"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
 	<script src="{% static 'js/theme.js' %}"></script>
 </body>
 

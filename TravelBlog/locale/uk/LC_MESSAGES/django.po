@@ -1,0 +1,1887 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-03 17:08+0300\n"
+"Language: uk\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\app\templates\app\archive.html:12 .\app\templates\app\archive.html:106
+#: .\app\templates\app\category.html:54 .\app\templates\app\contact.html:54
+#: .\app\templates\app\elements.html:54 .\app\templates\app\single-blog.html:54
+msgid "Archieve"
+msgstr "Архів"
+
+#: .\app\templates\app\archive.html:48 .\app\templates\app\archive.html:104
+#: .\app\templates\app\category.html:48 .\app\templates\app\category.html:104
+#: .\app\templates\app\contact.html:48 .\app\templates\app\contact.html:104
+#: .\app\templates\app\elements.html:48 .\app\templates\app\elements.html:104
+#: .\app\templates\app\index.html:47 .\app\templates\app\single-blog.html:48
+#: .\app\templates\app\single-blog.html:105
+msgid "Home"
+msgstr "Головна"
+
+#: .\app\templates\app\archive.html:51 .\app\templates\app\category.html:12
+#: .\app\templates\app\category.html:51 .\app\templates\app\category.html:106
+#: .\app\templates\app\contact.html:51 .\app\templates\app\elements.html:51
+#: .\app\templates\app\index.html:50 .\app\templates\app\single-blog.html:51
+msgid "Category"
+msgstr "Категорії"
+
+#: .\app\templates\app\archive.html:54 .\app\templates\app\index.html:53
+msgid "Archive"
+msgstr "Архів"
+
+#: .\app\templates\app\archive.html:61 .\app\templates\app\category.html:61
+#: .\app\templates\app\contact.html:61 .\app\templates\app\elements.html:12
+#: .\app\templates\app\elements.html:61 .\app\templates\app\elements.html:106
+#: .\app\templates\app\index.html:60 .\app\templates\app\single-blog.html:61
+msgid "Elements"
+msgstr "Елементи"
+
+#: .\app\templates\app\archive.html:64 .\app\templates\app\category.html:64
+#: .\app\templates\app\contact.html:64 .\app\templates\app\elements.html:64
+#: .\app\templates\app\index.html:63 .\app\templates\app\single-blog.html:12
+#: .\app\templates\app\single-blog.html:64
+#: .\app\templates\app\single-blog.html:107
+msgid "Post Details"
+msgstr "Деталі публікації"
+
+#: .\app\templates\app\archive.html:69 .\app\templates\app\category.html:69
+#: .\app\templates\app\contact.html:12 .\app\templates\app\contact.html:69
+#: .\app\templates\app\contact.html:106 .\app\templates\app\elements.html:69
+#: .\app\templates\app\index.html:68 .\app\templates\app\single-blog.html:69
+msgid "Contact"
+msgstr "Контакти"
+
+#: .\app\templates\app\archive.html:131 .\app\templates\app\archive.html:155
+#: .\app\templates\app\archive.html:179 .\app\templates\app\archive.html:203
+#: .\app\templates\app\archive.html:227 .\app\templates\app\archive.html:251
+#: .\app\templates\app\archive.html:275 .\app\templates\app\archive.html:299
+#: .\app\templates\app\category.html:131 .\app\templates\app\category.html:155
+#: .\app\templates\app\category.html:179 .\app\templates\app\category.html:203
+#: .\app\templates\app\category.html:227 .\app\templates\app\category.html:251
+#: .\app\templates\app\index.html:190 .\app\templates\app\index.html:212
+#: .\app\templates\app\index.html:234 .\app\templates\app\index.html:256
+#: .\app\templates\app\index.html:278 .\app\templates\app\index.html:300
+#: .\app\templates\app\index.html:322 .\app\templates\app\index.html:344
+#: .\app\templates\app\index.html:386 .\app\templates\app\index.html:509
+msgid "Waterfall Travel"
+msgstr "Подорож водоспадом"
+
+#: .\app\templates\app\archive.html:141 .\app\templates\app\archive.html:165
+#: .\app\templates\app\archive.html:189 .\app\templates\app\archive.html:213
+#: .\app\templates\app\archive.html:237 .\app\templates\app\archive.html:261
+#: .\app\templates\app\archive.html:285 .\app\templates\app\archive.html:309
+#: .\app\templates\app\category.html:141 .\app\templates\app\category.html:165
+#: .\app\templates\app\category.html:189 .\app\templates\app\category.html:213
+#: .\app\templates\app\category.html:237 .\app\templates\app\category.html:261
+#: .\app\templates\app\index.html:109 .\app\templates\app\index.html:133
+#: .\app\templates\app\index.html:157 .\app\templates\app\index.html:200
+#: .\app\templates\app\index.html:222 .\app\templates\app\index.html:244
+#: .\app\templates\app\index.html:266 .\app\templates\app\index.html:288
+#: .\app\templates\app\index.html:310 .\app\templates\app\index.html:332
+#: .\app\templates\app\index.html:354 .\app\templates\app\index.html:396
+#: .\app\templates\app\index.html:420 .\app\templates\app\index.html:444
+#: .\app\templates\app\index.html:469 .\app\templates\app\index.html:494
+#: .\app\templates\app\index.html:519
+msgid "Read More"
+msgstr "Детальніше"
+
+#: .\app\templates\app\archive.html:358 .\app\templates\app\category.html:310
+#: .\app\templates\app\single-blog.html:355
+msgid "Charlie ALison Barber"
+msgstr "Чарлі Алісон Барбер"
+
+#: .\app\templates\app\archive.html:359 .\app\templates\app\category.html:311
+#: .\app\templates\app\single-blog.html:356
+msgid "Senior blog writer"
+msgstr "Старший автор блогу"
+
+#: .\app\templates\app\archive.html:373 .\app\templates\app\category.html:325
+#: .\app\templates\app\single-blog.html:373
+msgid "Popular Posts"
+msgstr "Популярні публікації"
+
+#: .\app\templates\app\archive.html:378 .\app\templates\app\category.html:330
+#: .\app\templates\app\single-blog.html:378
+msgid "Space The Final Frontier"
+msgstr "Космос: Останній рубіж"
+
+#: .\app\templates\app\archive.html:380 .\app\templates\app\archive.html:389
+#: .\app\templates\app\category.html:332 .\app\templates\app\category.html:341
+#: .\app\templates\app\single-blog.html:380
+#: .\app\templates\app\single-blog.html:389
+msgid "02 Hours ago"
+msgstr "02 години тому"
+
+#: .\app\templates\app\archive.html:387 .\app\templates\app\category.html:339
+#: .\app\templates\app\single-blog.html:387
+msgid "The Amazing Hubble"
+msgstr "Дивовижний Хаббл"
+
+#: .\app\templates\app\archive.html:396 .\app\templates\app\category.html:348
+#: .\app\templates\app\single-blog.html:396
+msgid "Astronomy Or Astrology"
+msgstr "Астрономія або астрологія"
+
+#: .\app\templates\app\archive.html:398 .\app\templates\app\category.html:350
+#: .\app\templates\app\single-blog.html:398
+msgid "03 Hours ago"
+msgstr "03 години тому"
+
+#: .\app\templates\app\archive.html:404 .\app\templates\app\category.html:356
+#: .\app\templates\app\single-blog.html:404
+msgid "Newsletter"
+msgstr "Інформаційний бюлетень"
+
+#: .\app\templates\app\archive.html:421
+msgid "Post Catgories"
+msgstr "Категорії публікацій"
+
+#: .\app\templates\app\archive.html:425 .\app\templates\app\category.html:377
+#: .\app\templates\app\single-blog.html:425
+msgid "Technology"
+msgstr "Технології"
+
+#: .\app\templates\app\archive.html:431 .\app\templates\app\category.html:383
+#: .\app\templates\app\single-blog.html:130
+#: .\app\templates\app\single-blog.html:431
+msgid "Lifestyle"
+msgstr "Спосіб життя"
+
+#: .\app\templates\app\archive.html:437 .\app\templates\app\category.html:389
+#: .\app\templates\app\single-blog.html:437
+msgid "Fashion"
+msgstr "Мода"
+
+#: .\app\templates\app\archive.html:443 .\app\templates\app\category.html:395
+#: .\app\templates\app\single-blog.html:443
+msgid "Art"
+msgstr "Мистецтво"
+
+#: .\app\templates\app\archive.html:449 .\app\templates\app\category.html:401
+#: .\app\templates\app\single-blog.html:449
+msgid "Food"
+msgstr "Їжа"
+
+#: .\app\templates\app\archive.html:467 .\app\templates\app\category.html:419
+#: .\app\templates\app\contact.html:178 .\app\templates\app\elements.html:746
+#: .\app\templates\app\index.html:822 .\app\templates\app\single-blog.html:467
+msgid "Stay updated with our latest trends"
+msgstr "Будьте в курсі наших останніх трендів"
+
+#: .\app\templates\app\archive.html:499 .\app\templates\app\category.html:451
+#: .\app\templates\app\contact.html:210 .\app\templates\app\elements.html:778
+#: .\app\templates\app\index.html:854 .\app\templates\app\single-blog.html:499
+msgid "Copyright"
+msgstr "Авторське право"
+
+#: .\app\templates\app\archive.html:499 .\app\templates\app\category.html:451
+#: .\app\templates\app\contact.html:210 .\app\templates\app\elements.html:778
+#: .\app\templates\app\index.html:854 .\app\templates\app\single-blog.html:499
+msgid "All rights reserved"
+msgstr "Всі права захищені"
+
+#: .\app\templates\app\archive.html:499 .\app\templates\app\category.html:451
+#: .\app\templates\app\contact.html:210 .\app\templates\app\elements.html:778
+#: .\app\templates\app\index.html:854 .\app\templates\app\single-blog.html:499
+msgid "| This template is made with"
+msgstr "| Цей шаблон створено за допомогою"
+
+#: .\app\templates\app\archive.html:499 .\app\templates\app\category.html:451
+#: .\app\templates\app\contact.html:210 .\app\templates\app\elements.html:778
+#: .\app\templates\app\index.html:854 .\app\templates\app\single-blog.html:499
+msgid "by"
+msgstr "за"
+
+#: .\app\templates\app\archive.html:499 .\app\templates\app\category.html:451
+#: .\app\templates\app\contact.html:210 .\app\templates\app\elements.html:778
+#: .\app\templates\app\index.html:854 .\app\templates\app\single-blog.html:499
+msgid "Colorlib"
+msgstr "Colorlib"
+
+#: .\app\templates\app\category.html:58 .\app\templates\app\index.html:57
+#: .\app\templates\app\single-blog.html:58
+#, fuzzy
+#| msgid "Messages"
+msgid "Pages"
+msgstr "Сторінки"
+
+#: .\app\templates\app\category.html:373
+#: .\app\templates\app\single-blog.html:421
+#, fuzzy
+#| msgid "Category"
+msgid "Post Categories"
+msgstr "Категорії"
+
+#: .\app\templates\app\contact.html:129
+msgid "California, United States"
+msgstr "Каліфорнія, США"
+
+#: .\app\templates\app\contact.html:130
+msgid "Santa monica bullevard"
+msgstr "Бульвар Санта-Моніки"
+
+#: .\app\templates\app\contact.html:135
+msgid "Mon to Fri 9am to 6 pm"
+msgstr "Пн-Пт з 9:00 до 18:00"
+
+#: .\app\templates\app\contact.html:140
+msgid "Send us your query anytime!"
+msgstr "Надсилайте нам свій запит будь-коли!"
+
+#: .\app\templates\app\elements.html:149 .\app\templates\app\elements.html:159
+#: .\app\templates\app\elements.html:169 .\app\templates\app\elements.html:179
+#: .\app\templates\app\elements.html:189 .\app\templates\app\elements.html:199
+#: .\app\templates\app\elements.html:209 .\app\templates\app\elements.html:217
+#: .\app\templates\app\elements.html:227 .\app\templates\app\elements.html:234
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: .\app\templates\app\elements.html:150 .\app\templates\app\elements.html:160
+#: .\app\templates\app\elements.html:170 .\app\templates\app\elements.html:180
+#: .\app\templates\app\elements.html:190 .\app\templates\app\elements.html:200
+#: .\app\templates\app\elements.html:210 .\app\templates\app\elements.html:218
+msgid "Primary"
+msgstr "Первинний"
+
+#: .\app\templates\app\elements.html:151 .\app\templates\app\elements.html:161
+#: .\app\templates\app\elements.html:171 .\app\templates\app\elements.html:181
+#: .\app\templates\app\elements.html:191 .\app\templates\app\elements.html:201
+#: .\app\templates\app\elements.html:211 .\app\templates\app\elements.html:219
+msgid "Success"
+msgstr "Успіх"
+
+#: .\app\templates\app\elements.html:152 .\app\templates\app\elements.html:162
+#: .\app\templates\app\elements.html:172 .\app\templates\app\elements.html:182
+#: .\app\templates\app\elements.html:192 .\app\templates\app\elements.html:202
+#: .\app\templates\app\elements.html:212 .\app\templates\app\elements.html:220
+msgid "Info"
+msgstr "Інформація"
+
+#: .\app\templates\app\elements.html:153 .\app\templates\app\elements.html:163
+#: .\app\templates\app\elements.html:173 .\app\templates\app\elements.html:183
+#: .\app\templates\app\elements.html:193 .\app\templates\app\elements.html:203
+#: .\app\templates\app\elements.html:213 .\app\templates\app\elements.html:221
+msgid "Warning"
+msgstr "УВАГА"
+
+#: .\app\templates\app\elements.html:154 .\app\templates\app\elements.html:164
+#: .\app\templates\app\elements.html:174 .\app\templates\app\elements.html:184
+#: .\app\templates\app\elements.html:194 .\app\templates\app\elements.html:204
+#: .\app\templates\app\elements.html:214 .\app\templates\app\elements.html:222
+#, fuzzy
+#| msgid "Change"
+msgid "Danger"
+msgstr "Змінити"
+
+#: .\app\templates\app\elements.html:155 .\app\templates\app\elements.html:165
+#: .\app\templates\app\elements.html:175 .\app\templates\app\elements.html:185
+#: .\app\templates\app\elements.html:195 .\app\templates\app\elements.html:205
+msgid "Link"
+msgstr "Посилання"
+
+#: .\app\templates\app\elements.html:156 .\app\templates\app\elements.html:166
+#: .\app\templates\app\elements.html:176 .\app\templates\app\elements.html:186
+#: .\app\templates\app\elements.html:196 .\app\templates\app\elements.html:206
+msgid "Disable"
+msgstr "Вимкнути"
+
+#: .\app\templates\app\elements.html:225 .\app\templates\app\elements.html:232
+msgid "Extra Large"
+msgstr "Дуже великий"
+
+#: .\app\templates\app\elements.html:226 .\app\templates\app\elements.html:233
+msgid "Large"
+msgstr "Великий"
+
+#: .\app\templates\app\elements.html:228 .\app\templates\app\elements.html:235
+msgid "Medium"
+msgstr "Середній"
+
+#: .\app\templates\app\elements.html:229 .\app\templates\app\elements.html:236
+msgid "Small"
+msgstr "Маленький"
+
+#: .\app\templates\app\elements.html:294
+msgid "Definition"
+msgstr "Визначення"
+
+#: .\app\templates\app\elements.html:298
+msgid "Definition 01"
+msgstr "Визначення 01"
+
+#: .\app\templates\app\elements.html:307
+msgid "Definition 02"
+msgstr "Визначення 02"
+
+#: .\app\templates\app\elements.html:316
+msgid "Definition 03"
+msgstr "Визначення 03"
+
+#: .\app\templates\app\elements.html:326
+msgid "Block Quotes"
+msgstr "Блок котирувань"
+
+#: .\app\templates\app\elements.html:350
+msgid "Table"
+msgstr "Таблиця"
+
+#: .\app\templates\app\elements.html:355
+msgid "Countries"
+msgstr "Країни"
+
+#: .\app\templates\app\elements.html:356
+msgid "Visits"
+msgstr "Відвідування"
+
+#: .\app\templates\app\elements.html:357
+msgid "Percentages"
+msgstr "Відсотки"
+
+#: .\app\templates\app\elements.html:361 .\app\templates\app\elements.html:372
+#: .\app\templates\app\elements.html:383 .\app\templates\app\elements.html:394
+#: .\app\templates\app\elements.html:405 .\app\templates\app\elements.html:416
+#: .\app\templates\app\elements.html:427 .\app\templates\app\elements.html:438
+msgid "Canada"
+msgstr "Канада"
+
+#: .\app\templates\app\elements.html:451
+msgid "Image Gallery"
+msgstr "Галерея зображень"
+
+#: .\app\templates\app\elements.html:498
+msgid "Typography"
+msgstr "Типографіка"
+
+#: .\app\templates\app\elements.html:500
+msgid "This is header 01"
+msgstr "Це заголовок 01"
+
+#: .\app\templates\app\elements.html:501
+msgid "This is header 02"
+msgstr "Це заголовок 02"
+
+#: .\app\templates\app\elements.html:502
+msgid "This is header 03"
+msgstr "Це заголовок 03"
+
+#: .\app\templates\app\elements.html:503
+msgid "This is header 04"
+msgstr "Це заголовок 04"
+
+#: .\app\templates\app\elements.html:504
+msgid "This is header 05"
+msgstr "Це заголовок 05"
+
+#: .\app\templates\app\elements.html:505
+msgid "This is header 06"
+msgstr "Це заголовок 06"
+
+#: .\app\templates\app\elements.html:509
+msgid "Unordered List"
+msgstr "Невпорядкований список"
+
+#: .\app\templates\app\elements.html:512 .\app\templates\app\elements.html:533
+msgid "Fta Keys"
+msgstr "Ключі FTA"
+
+#: .\app\templates\app\elements.html:513 .\app\templates\app\elements.html:534
+msgid "For Women Only Your Computer Usage"
+msgstr "Тільки для жінок Використання вашого комп'ютера"
+
+#: .\app\templates\app\elements.html:514 .\app\templates\app\elements.html:535
+msgid "Facts Why Inkjet Printing Is Very Appealing"
+msgstr "Факти, чому струменевий друк є дуже привабливим"
+
+#: .\app\templates\app\elements.html:516 .\app\templates\app\elements.html:537
+msgid "Addiction When Gambling Becomes"
+msgstr "Залежність, коли азартні ігри стають"
+
+#: .\app\templates\app\elements.html:518 .\app\templates\app\elements.html:539
+msgid "Protective Preventative Maintenance"
+msgstr "Захисне профілактичне обслуговування"
+
+#: .\app\templates\app\elements.html:523 .\app\templates\app\elements.html:544
+msgid "Dealing With Technical Support 10 Useful Tips"
+msgstr "10 корисних порад щодо роботи з технічною підтримкою"
+
+#: .\app\templates\app\elements.html:524 .\app\templates\app\elements.html:545
+msgid "Make Myspace Your Best Designed Space"
+msgstr "Зробіть Myspace своїм найкраще оформленим простором"
+
+#: .\app\templates\app\elements.html:525 .\app\templates\app\elements.html:546
+msgid "Cleaning And Organizing Your Computer"
+msgstr "Очищення та впорядкування комп'ютера"
+
+#: .\app\templates\app\elements.html:530
+msgid "Ordered List"
+msgstr "Упорядкований список"
+
+#: .\app\templates\app\elements.html:555
+msgid "Form Element"
+msgstr "Елемент форми"
+
+#: .\app\templates\app\elements.html:582
+msgid "City"
+msgstr "Місто"
+
+#: .\app\templates\app\elements.html:583
+msgid "Dhaka"
+msgstr "Дакка"
+
+#: .\app\templates\app\elements.html:584
+msgid "Dilli"
+msgstr "Діллі"
+
+#: .\app\templates\app\elements.html:585
+msgid "New York"
+msgstr "Нью-Йорк"
+
+#: .\app\templates\app\elements.html:586
+msgid "Islamabad"
+msgstr "Ісламабад"
+
+#: .\app\templates\app\elements.html:594
+msgid "Country"
+msgstr "Країна"
+
+#: .\app\templates\app\elements.html:595
+msgid "Bangladesh"
+msgstr "Бангладеш"
+
+#: .\app\templates\app\elements.html:596
+msgid "India"
+msgstr "Індія"
+
+#: .\app\templates\app\elements.html:597
+msgid "England"
+msgstr "Англія"
+
+#: .\app\templates\app\elements.html:598
+msgid "Srilanka"
+msgstr "Шріланка"
+
+#: .\app\templates\app\elements.html:650
+msgid "English"
+msgstr "Англійська"
+
+#: .\app\templates\app\elements.html:651
+msgid "Spanish"
+msgstr "Іспанська"
+
+#: .\app\templates\app\elements.html:652
+msgid "Arabic"
+msgstr "Арабська"
+
+#: .\app\templates\app\elements.html:653
+msgid "Portguiese"
+msgstr "Португальська"
+
+#: .\app\templates\app\elements.html:654
+msgid "Bengali"
+msgstr "Бенгальська"
+
+#: .\app\templates\app\index.html:11
+msgid "Fantasy Travel Blog"
+msgstr "Блог фантастичних подорожей"
+
+#: .\app\templates\app\index.html:176
+msgid "Best Travel Experience Within the Universe."
+msgstr "Найкращий досвід подорожей у Всесвіті."
+
+#: .\app\templates\app\index.html:370
+msgid "Latest"
+msgstr "Останній"
+
+#: .\app\templates\app\index.html:371
+msgid "Blog Posts."
+msgstr "Повідомлення в блозі."
+
+#: .\app\templates\app\index.html:410 .\app\templates\app\index.html:434
+#: .\app\templates\app\index.html:459 .\app\templates\app\index.html:484
+msgid "Waterfall Mountain Island"
+msgstr "Водоспад Гірський острів"
+
+#: .\app\templates\app\index.html:530
+msgid "Load More Posts"
+msgstr "Завантажити більше дописів"
+
+#: .\app\templates\app\index.html:545
+msgid "Let Us Find Your Places Within a Sec."
+msgstr "Дозвольте нам знайти ваші місця за секунду."
+
+#: .\app\templates\app\index.html:562 .\app\templates\app\index.html:570
+#: .\app\templates\app\index.html:576 .\app\templates\app\index.html:584
+#: .\app\templates\app\index.html:590 .\app\templates\app\index.html:598
+msgid "Waterfall"
+msgstr "Водоспад"
+
+#: .\app\templates\app\index.html:563 .\app\templates\app\index.html:571
+#: .\app\templates\app\index.html:577 .\app\templates\app\index.html:585
+#: .\app\templates\app\index.html:591 .\app\templates\app\index.html:599
+msgid "Mountain Island"
+msgstr "Гірський острів"
+
+#: .\app\templates\app\index.html:613
+msgid "Popular"
+msgstr "Популярний"
+
+#: .\app\templates\app\index.html:613
+msgid "Posts to Remember"
+msgstr "Публікації, які слід пам’ятати"
+
+#: .\app\templates\app\index.html:631 .\app\templates\app\index.html:652
+#: .\app\templates\app\index.html:673 .\app\templates\app\index.html:694
+#: .\app\templates\app\index.html:715 .\app\templates\app\index.html:736
+#: .\app\templates\app\index.html:757 .\app\templates\app\index.html:778
+#: .\app\templates\app\index.html:799
+msgid "Waterfall Mountain Visit"
+msgstr "Відвідування водоспаду"
+
+#: .\app\templates\app\single-blog.html:126
+msgid "Cartridge Is Better Than Ever"
+msgstr "Картридж кращий, ніж будь-коли"
+
+#: .\app\templates\app\single-blog.html:126
+#: .\app\templates\app\single-blog.html:199
+msgid "A Discount Toner"
+msgstr "Тонер зі знижкою"
+
+#: .\app\templates\app\single-blog.html:131
+msgid "Gadget"
+msgstr "Гаджет"
+
+#: .\app\templates\app\single-blog.html:136
+msgid "Mark Wiens"
+msgstr "Марк Вінс"
+
+#: .\app\templates\app\single-blog.html:137
+msgid "12 Dec, 2017 11:21 am"
+msgstr "12 грудня 2017 р., 11:21"
+
+#: .\app\templates\app\single-blog.html:177
+msgid "Lily and 4 people like this"
+msgstr "Лілі та 4 людям це подобається"
+
+#: .\app\templates\app\single-blog.html:178
+msgid "06 Comments"
+msgstr "06 коментарів"
+
+#: .\app\templates\app\single-blog.html:197
+msgid "prev Post"
+msgstr "попередній пост"
+
+#: .\app\templates\app\single-blog.html:205
+msgid "Next Posts"
+msgstr "Наступні дописи"
+
+#: .\app\templates\app\single-blog.html:207
+msgid "Cartridge Is Better"
+msgstr "Картридж краще"
+
+#: .\app\templates\app\single-blog.html:228
+msgid "Emilly Blunt"
+msgstr "Емілі Блант"
+
+#: .\app\templates\app\single-blog.html:229
+#: .\app\templates\app\single-blog.html:248
+#: .\app\templates\app\single-blog.html:267
+#: .\app\templates\app\single-blog.html:286
+#: .\app\templates\app\single-blog.html:305
+msgid "December 4, 2017 at 3:12 pm"
+msgstr "4 грудня 2017 року о 15:12"
+
+#: .\app\templates\app\single-blog.html:231
+#: .\app\templates\app\single-blog.html:250
+#: .\app\templates\app\single-blog.html:269
+#: .\app\templates\app\single-blog.html:288
+#: .\app\templates\app\single-blog.html:307
+msgid "Never say goodbye till the end comes!"
+msgstr "Ніколи не прощайся, доки не прийде кінець!"
+
+#: .\app\templates\app\single-blog.html:247
+msgid "Elsie Cunningham"
+msgstr "Елсі Каннінгем"
+
+#: .\app\templates\app\single-blog.html:266
+msgid "Annie Stephens"
+msgstr "Енні Стівенс"
+
+#: .\app\templates\app\single-blog.html:285
+msgid "Maria Luna"
+msgstr "Марія Луна"
+
+#: .\app\templates\app\single-blog.html:304
+msgid "Ina Hayes"
+msgstr "Іна Хейс"
+
+#: .\app\templates\app\single-blog.html:318
+msgid "Leave a Reply"
+msgstr "Залиште відповідь"
+
+#: .\venv\Lib\site-packages\django\contrib\messages\apps.py:16
+msgid "Messages"
+msgstr "Повідомлення"
+
+#: .\venv\Lib\site-packages\django\contrib\sitemaps\apps.py:8
+msgid "Site Maps"
+msgstr "Карти сайту"
+
+#: .\venv\Lib\site-packages\django\contrib\staticfiles\apps.py:9
+msgid "Static Files"
+msgstr "Статичні файли"
+
+#: .\venv\Lib\site-packages\django\contrib\syndication\apps.py:7
+msgid "Syndication"
+msgstr "Синдикація"
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: .\venv\Lib\site-packages\django\core\paginator.py:30
+msgid "…"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:32
+msgid "That page number is not an integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:33
+msgid "That page number is less than 1"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:34
+msgid "That page contains no results"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:22
+msgid "Enter a valid value."
+msgstr "Введіть коректне значення."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:70
+#, fuzzy
+#| msgid "Enter a valid date."
+msgid "Enter a valid domain name."
+msgstr "Введіть коректну дату."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:153
+#: .\venv\Lib\site-packages\django\forms\fields.py:775
+msgid "Enter a valid URL."
+msgstr "Введіть коректну URL-адресу."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:200
+msgid "Enter a valid integer."
+msgstr "Введіть ціле число."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:211
+msgid "Enter a valid email address."
+msgstr "Введіть коректну адресу електронної пошти."
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: .\venv\Lib\site-packages\django\core\validators.py:289
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:297
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
+"hyphens."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:309
+#: .\venv\Lib\site-packages\django\core\validators.py:318
+#: .\venv\Lib\site-packages\django\core\validators.py:332
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2220
+#, fuzzy, python-format
+#| msgid "Enter a valid email address."
+msgid "Enter a valid %(protocol)s address."
+msgstr "Введіть коректну адресу електронної пошти."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:311
+msgid "IPv4"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:320
+#: .\venv\Lib\site-packages\django\utils\ipv6.py:43
+msgid "IPv6"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:334
+msgid "IPv4 or IPv6"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:375
+msgid "Enter only digits separated by commas."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:381
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:416
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:425
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:434
+#, python-format
+msgid "Ensure this value is a multiple of step size %(limit_value)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:441
+#, python-format
+msgid ""
+"Ensure this value is a multiple of step size %(limit_value)s, starting from "
+"%(offset)s, e.g. %(offset)s, %(valid_value1)s, %(valid_value2)s, and so on."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:473
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:491
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:514
+#: .\venv\Lib\site-packages\django\forms\fields.py:366
+#: .\venv\Lib\site-packages\django\forms\fields.py:405
+msgid "Enter a number."
+msgstr "Введіть число."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:516
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:521
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:526
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:597
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:659
+msgid "Null characters are not allowed."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\base.py:1600
+#: .\venv\Lib\site-packages\django\forms\models.py:908
+msgid "and"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\base.py:1602
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\constraints.py:22
+#, python-format
+msgid "Constraint “%(name)s” is violated."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:134
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:135
+#, fuzzy
+#| msgid "This field cannot be blank."
+msgid "This field cannot be null."
+msgstr "Це поле не може бути порожнім."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:136
+msgid "This field cannot be blank."
+msgstr "Це поле не може бути порожнім."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:137
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr ""
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or
+#. 'month'. Eg: "Title must be unique for pub_date year"
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:141
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:180
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1162
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1163
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1165
+msgid "Boolean (Either True or False)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1215
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1217
+msgid "String (unlimited)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1326
+msgid "Comma-separated integers"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1427
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1431
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1566
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1435
+msgid "Date (without time)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1562
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1570
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
+"[TZ]) but it is an invalid date/time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1575
+msgid "Date (with time)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1702
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1704
+#, fuzzy
+#| msgid "Enter a number."
+msgid "Decimal number"
+msgstr "Введіть число."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1864
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1868
+msgid "Duration"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1920
+#, fuzzy
+#| msgid "Enter a valid email address."
+msgid "Email address"
+msgstr "Введіть коректну адресу електронної пошти."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1945
+msgid "File path"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2023
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2025
+msgid "Floating point number"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2065
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2067
+msgid "Integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2163
+msgid "Big (8 byte) integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2180
+msgid "Small integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2188
+msgid "IPv4 address"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2219
+msgid "IP address"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2310
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2311
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2313
+msgid "Boolean (Either True, False or None)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2364
+msgid "Positive big integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2379
+msgid "Positive integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2394
+msgid "Positive small integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2410
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2446
+msgid "Text"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2526
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2530
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2534
+msgid "Time"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2642
+msgid "URL"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2666
+msgid "Raw binary data"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2731
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2733
+msgid "Universally unique identifier"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\files.py:244
+msgid "File"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\files.py:420
+msgid "Image"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\json.py:24
+msgid "A JSON object"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\json.py:26
+msgid "Value must be valid JSON."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:978
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r is not a valid choice."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:981
+msgid "Foreign Key (type determined by related field)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1275
+msgid "One-to-one relationship"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1332
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1334
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1382
+msgid "Many-to-many relationship"
+msgstr ""
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the label
+#: .\venv\Lib\site-packages\django\forms\boundfield.py:185
+msgid ":?.!"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:95
+msgid "This field is required."
+msgstr "Це поле є обов’язковим."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:315
+msgid "Enter a whole number."
+msgstr "Введіть ціле число."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:486
+#: .\venv\Lib\site-packages\django\forms\fields.py:1267
+msgid "Enter a valid date."
+msgstr "Введіть коректну дату."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:509
+#: .\venv\Lib\site-packages\django\forms\fields.py:1268
+msgid "Enter a valid time."
+msgstr "Введіть коректний час."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:536
+msgid "Enter a valid date/time."
+msgstr "Введіть коректні дату й час."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:570
+#, fuzzy
+#| msgid "Enter a valid date."
+msgid "Enter a valid duration."
+msgstr "Введіть коректну дату."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:571
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:640
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:641
+msgid "No file was submitted."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:642
+msgid "The submitted file is empty."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:644
+#, python-format
+msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:649
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:717
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+"Завантажте коректне зображення. Завантажений файл не є зображенням або "
+"пошкоджений."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:889
+#: .\venv\Lib\site-packages\django\forms\fields.py:975
+#: .\venv\Lib\site-packages\django\forms\models.py:1592
+#, fuzzy, python-format
+#| msgid ""
+#| "Select a valid choice. That choice is not one of the available choices."
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr "Оберіть коректний варіант. Обране значення відсутнє серед доступних."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:977
+#: .\venv\Lib\site-packages\django\forms\fields.py:1096
+#: .\venv\Lib\site-packages\django\forms\models.py:1590
+#, fuzzy
+#| msgid "Enter a valid value."
+msgid "Enter a list of values."
+msgstr "Введіть коректне значення."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1097
+#, fuzzy
+#| msgid "Enter a valid value."
+msgid "Enter a complete value."
+msgstr "Введіть коректне значення."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1339
+msgid "Enter a valid UUID."
+msgstr "Введіть коректний UUID."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1369
+#, fuzzy
+#| msgid "Enter a valid URL."
+msgid "Enter a valid JSON."
+msgstr "Введіть коректну URL-адресу."
+
+#. Translators: This is the default suffix added to form field labels
+#: .\venv\Lib\site-packages\django\forms\forms.py:97
+msgid ":"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\forms.py:239
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:61
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:65
+#, python-format
+msgid "Please submit at most %(num)d form."
+msgid_plural "Please submit at most %(num)d forms."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:70
+#, python-format
+msgid "Please submit at least %(num)d form."
+msgid_plural "Please submit at least %(num)d forms."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:484
+#: .\venv\Lib\site-packages\django\forms\formsets.py:491
+msgid "Order"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:499
+msgid "Delete"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:901
+#, fuzzy, python-format
+#| msgid "Please correct the duplicate values below."
+msgid "Please correct the duplicate data for %(field)s."
+msgstr "Виправте повторювані значення нижче."
+
+#: .\venv\Lib\site-packages\django\forms\models.py:906
+#, fuzzy, python-format
+#| msgid "Please correct the duplicate values below."
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr "Виправте повторювані значення нижче."
+
+#: .\venv\Lib\site-packages\django\forms\models.py:913
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:922
+msgid "Please correct the duplicate values below."
+msgstr "Виправте повторювані значення нижче."
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1359
+msgid "The inline value did not match the parent instance."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1450
+msgid "Select a valid choice. That choice is not one of the available choices."
+msgstr "Оберіть коректний варіант. Обране значення відсутнє серед доступних."
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1594
+#, fuzzy, python-format
+#| msgid "Enter a valid value."
+msgid "“%(pk)s” is not a valid value."
+msgstr "Введіть коректне значення."
+
+#: .\venv\Lib\site-packages\django\forms\utils.py:229
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:527
+msgid "Clear"
+msgstr "Очистити"
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:528
+msgid "Currently"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:529
+msgid "Change"
+msgstr "Змінити"
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:866
+msgid "Unknown"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:867
+msgid "Yes"
+msgstr "Так"
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:868
+msgid "No"
+msgstr "Ні"
+
+#. Translators: Please do not add spaces around commas.
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:873
+msgid "yes,no,maybe"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:903
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:920
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:922
+#, python-format
+msgid "%s KB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:924
+#, python-format
+msgid "%s MB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:926
+#, python-format
+msgid "%s GB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:928
+#, python-format
+msgid "%s TB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:930
+#, python-format
+msgid "%s PB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:74
+msgid "p.m."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:75
+msgid "a.m."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:80
+msgid "PM"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:81
+msgid "AM"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:153
+msgid "midnight"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:155
+msgid "noon"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:7
+msgid "Monday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:8
+msgid "Tuesday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:9
+msgid "Wednesday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:10
+msgid "Thursday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:11
+msgid "Friday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:12
+msgid "Saturday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:13
+msgid "Sunday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:16
+msgid "Mon"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:17
+msgid "Tue"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:18
+msgid "Wed"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:19
+msgid "Thu"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:20
+msgid "Fri"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:21
+msgid "Sat"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:22
+msgid "Sun"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:25
+msgid "January"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:26
+msgid "February"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:27
+msgid "March"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:28
+msgid "April"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:29
+msgid "May"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:30
+msgid "June"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:31
+msgid "July"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:32
+msgid "August"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:33
+msgid "September"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:34
+msgid "October"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:35
+msgid "November"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:36
+msgid "December"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:39
+msgid "jan"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:40
+msgid "feb"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:41
+msgid "mar"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:42
+msgid "apr"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:43
+msgid "may"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:44
+msgid "jun"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:45
+msgid "jul"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:46
+msgid "aug"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:47
+msgid "sep"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:48
+msgid "oct"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:49
+msgid "nov"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:50
+msgid "dec"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:53
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:54
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:55
+msgctxt "abbrev. month"
+msgid "March"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:56
+msgctxt "abbrev. month"
+msgid "April"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:57
+msgctxt "abbrev. month"
+msgid "May"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:58
+msgctxt "abbrev. month"
+msgid "June"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:59
+msgctxt "abbrev. month"
+msgid "July"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:60
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:61
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:62
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:63
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:64
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:67
+msgctxt "alt. month"
+msgid "January"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:68
+msgctxt "alt. month"
+msgid "February"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:69
+msgctxt "alt. month"
+msgid "March"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:70
+msgctxt "alt. month"
+msgid "April"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:71
+msgctxt "alt. month"
+msgid "May"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:72
+msgctxt "alt. month"
+msgid "June"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:73
+msgctxt "alt. month"
+msgid "July"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:74
+msgctxt "alt. month"
+msgid "August"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:75
+msgctxt "alt. month"
+msgid "September"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:76
+msgctxt "alt. month"
+msgid "October"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:77
+msgctxt "alt. month"
+msgid "November"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:78
+msgctxt "alt. month"
+msgid "December"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\ipv6.py:20
+#, fuzzy
+#| msgid "Enter a valid email address."
+msgid "This is not a valid IPv6 address."
+msgstr "Введіть коректну адресу електронної пошти."
+
+#: .\venv\Lib\site-packages\django\utils\text.py:76
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\text.py:287
+msgid "or"
+msgstr ""
+
+#. Translators: This string is used as a separator between list elements
+#: .\venv\Lib\site-packages\django\utils\text.py:306
+#: .\venv\Lib\site-packages\django\utils\timesince.py:135
+msgid ", "
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:8
+#, python-format
+msgid "%(num)d year"
+msgid_plural "%(num)d years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:9
+#, python-format
+msgid "%(num)d month"
+msgid_plural "%(num)d months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:10
+#, python-format
+msgid "%(num)d week"
+msgid_plural "%(num)d weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:11
+#, python-format
+msgid "%(num)d day"
+msgid_plural "%(num)d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:12
+#, python-format
+msgid "%(num)d hour"
+msgid_plural "%(num)d hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:13
+#, python-format
+msgid "%(num)d minute"
+msgid_plural "%(num)d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:29
+msgid "Forbidden"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:30
+msgid "CSRF verification failed. Request aborted."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:34
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:40
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:45
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
+"including the “Referrer-Policy: no-referrer” header, please remove them. The "
+"CSRF protection requires the “Referer” header to do strict referer checking. "
+"If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:54
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:60
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:66
+msgid "More information is available with DEBUG=True."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:44
+msgid "No year specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:64
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:115
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:214
+msgid "Date out of range"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:94
+msgid "No month specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:147
+msgid "No day specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:194
+msgid "No week specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:353
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:384
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:680
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:720
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\detail.py:56
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:70
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:77
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:173
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\static.py:49
+msgid "Directory indexes are not allowed here."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\static.py:51
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\static.py:68
+#: .\venv\Lib\site-packages\django\views\templates\directory_index.html:8
+#: .\venv\Lib\site-packages\django\views\templates\directory_index.html:11
+#, python-format
+msgid "Index of %(directory)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:7
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:204
+msgid "The install worked successfully! Congratulations!"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:206
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:208
+#, python-format
+msgid ""
+"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" "
+"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
+"configured any URLs."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:217
+msgid "Django Documentation"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:218
+msgid "Topics, references, &amp; how-to’s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:226
+msgid "Tutorial: A Polling App"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:227
+msgid "Get started with Django"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:235
+msgid "Django Community"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:236
+msgid "Connect, get help, or contribute"
+msgstr ""
+
+#: .\venv\Lib\site-packages\modeltranslation\widgets.py:32
+msgid "None"
+msgstr ""
+
+#~ msgid "Text Sample"
+#~ msgstr "Зразок тексту"
+
+#~ msgid "Every avid independent filmmaker has"
+#~ msgstr "Кожен завзятий незалежний кінорежисер має"
+
+#~ msgid "about making that"
+#~ msgstr "про створення цього"
+
+#~ msgid "through of master DVDs with the"
+#~ msgstr "через головні DVD-диски з"
